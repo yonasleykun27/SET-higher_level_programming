@@ -5,23 +5,6 @@
 **Date**: September 20, 2026  
 
 ---
-
-## Executive Summary & Rubric Alignment (13 / 13 Points)
-
-This repository contains the complete deliverables for **AI Lab: Pair Programming with AI - Part 2**, critically auditing and refactoring a JavaScript class (`TaskQueue`) for Single Responsibility Principle (SRP) violations and scope/closure traps.
-
-| Rubric Criterion | Marks | Compliance & Implementation Details |
-| :--- | :--- | :--- |
-| **1. Submission & Access** | **2 / 2** | Accessible GitHub repository and formatted Word document (`AI_Lab_Pair_Programming_Part2_Updated.docx`) ready for Google Docs submission. |
-| **2. Scope/Closure Audit Prompt** | **2 / 2** | Structured prompt explicitly asking what `notify()` closes over and analyzing `let`/`const` block-scoping. |
-| **3. SRP Refactoring Prompt** | **2 / 2** | Identifies all 3 SRP violations (state check, logging, scheduling) and extracts concerns into dedicated classes. |
-| **4. Verification Prompt** | **1 / 1** | Formulates a final prompt applying the lesson's Critique Framework (Quality, Fit, Understanding, Correctness). |
-| **5. Evidence Screenshots** | **2 / 2** | Real ChatGPT session screenshots documenting scope/closure analysis and SRP refactoring explanations. |
-| **6. Refactored Code Correctness** | **2 / 2** | `task_queue_clean.js` extracts side effects into `TaskLogger` and `TaskScheduler`; eliminates the unbound `name` bug. |
-| **7. Reflection** | **2 / 2** | Rigorous 2-paragraph synthesis contrasting structural architectural audits vs superficial "fix the code" requests. |
-
----
-
 ## Deliverable 1: The Prompts
 
 ### Prompt 1: AI-Assisted Audit (Scope and Closures)
