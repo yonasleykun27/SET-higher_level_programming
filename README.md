@@ -26,6 +26,7 @@ Key learning goals include:
 | Project Directory | Description | Topics Covered |
 | :--- | :--- | :--- |
 | [0x12-javascript-warm_up](./0x12-javascript-warm_up) | Introductory JavaScript exercises and foundational scripts executed via Node.js | Syntax, variables, `let`/`const`, conditionals, loops, functions, objects, command-line arguments |
+| [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures) | Object-oriented JavaScript concepts, inheritance, and scoping | Classes, constructors, instance methods, prototype inheritance, `extends`, `super`, closures |
 
 ---
 
