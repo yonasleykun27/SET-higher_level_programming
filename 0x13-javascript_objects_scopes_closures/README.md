@@ -23,3 +23,10 @@ This project covers object-oriented programming concepts in JavaScript, includin
 | `4-rectangle.js` | Class `Rectangle` that adds instance methods `rotate()` (swaps width and height) and `double()` (multiplies width and height by 2) |
 | `5-square.js` | Class `Square` that inherits from `Rectangle` of `4-rectangle.js` with constructor taking `size` and calling `super(size, size)` |
 | `6-square.js` | Class `Square` that inherits from `Square` of `5-square.js` and adds instance method `charPrint(c)` (defaults to `X` if `c` is undefined) |
+| `7-occurrences.js` | Function `nbOccurences` that returns the number of occurrences of an element in a list |
+| `8-esrever.js` | Function `esrever` that returns the reversed version of a list without using built-in `reverse` |
+| `9-logme.js` | Function `logMe` that prints the number of arguments already printed and the new argument value |
+| `10-converter.js` | Function `converter` that converts a number from base 10 to another base passed as argument without new variable declarations |
+| `100-map.js` | Script that imports an array from `100-data.js` and computes a new array multiplying each value by its index using `map` |
+| `101-sorted.js` | Script that imports a dictionary of occurrences by user id from `101-data.js` and computes a dictionary of user ids by occurrence |
+| `102-concat.js` | Script that concatenates two files passed as the first two arguments into a destination file passed as the third argument |
