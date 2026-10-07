@@ -27,6 +27,8 @@ Key learning goals include:
 | :--- | :--- | :--- |
 | [0x12-javascript-warm_up](./0x12-javascript-warm_up) | Introductory JavaScript exercises and foundational scripts executed via Node.js | Syntax, variables, `let`/`const`, conditionals, loops, functions, objects, command-line arguments |
 | [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures) | Object-oriented JavaScript concepts, inheritance, and scoping | Classes, constructors, instance methods, prototype inheritance, `extends`, `super`, closures |
+| [0x14-javascript-web_scraping](./0x14-javascript-web_scraping) | Web scraping and REST API interaction using Node.js | `fs` module, `request` module, JSON manipulation, async callbacks & Promises |
+| [0x15-javascript-web_interactive](./0x15-javascript-web_interactive) | Front-end DOM manipulation and user interaction with vanilla JavaScript | DOM querying, event handling, class toggling, dynamic element creation |
 
 ---
 
